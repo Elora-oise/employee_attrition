@@ -34,5 +34,3 @@ Gradient Boosting achieved the best overall performance after hyperparameter tun
 - `Attrition.csv`
 - `gradient_boosting_employee_attrition.pkl`
 - `README.md`
-# employee_attrition
-# employee_attrition
